@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Tigran Gasparyan
+# 👋 Heyy! I'm Tigran
 
 > Engineering Manager & Full Stack Developer passionate about building scalable solutions
 
@@ -14,20 +14,19 @@ With 10 years in software engineering and leadership, I specialize in developing
 const tigran = {
   role: 'Engineering Manager & Software Engineer',
   location: 'Armenia, Yerevan',
-  languages: ['JavaScript', 'TypeScript', 'Python', 'C#', 'C++'],
+  languages: ['JavaScript', 'TypeScript', 'Python', 'C++', 'C#'],
   architecture: ['Microservices', 'Cloud Native', 'Serverless'],
   technologies: {
     frontend: {
       frameworks: ['React', 'Angular', 'Vue.js', 'Next.js'],
-      ui: ['Material-UI', 'Tailwind'],
+      ui: ['Tailwind', 'Material-UI'],
     },
     backend: {
       node: ['NestJS', 'Express'],
-      python: ['Flask', 'SQLAlchemy'],
       dotnet: ['ASP.NET'],
     },
-    cloud: ['Azure', 'AWS', 'Firebase'],
-    devOps: ['Docker', 'Kubernetes', 'Jenkins', 'Terraform'],
+    cloud: ['AWS', 'Azure', 'Firebase'],
+    devOps: ['Docker', 'Kubernetes', 'Jenkins'],
     gaming: ['Unreal Engine'],
   },
   currentFocus: 'Building scalable cloud-native applications',
